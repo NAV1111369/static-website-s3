@@ -17,4 +17,4 @@ Quick deploy (recommended for beginners):
   4. Enable "Static website hosting" in the bucket properties and set index document to index.html.
   5. (Optional) Create a CloudFront distribution using the S3 website endpoint as origin to get HTTPS and global caching.
 
-If you want CLI commands to deploy, follow the separate instructions provided by the assistant.
+
